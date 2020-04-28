@@ -1,7 +1,7 @@
 <annotation>
 	<folder>train</folder>
 	<filename>IMG_9406_57.jpg</filename>
-	<path>/home/u/PycharmProjects/flyprepare/images/train/IMG_9406_57.jpg</path>
+	<path>/home/u/PycharmProjects/tensorflow-object-detection/data/images/train/IMG_9406_57.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -26,18 +26,6 @@
 	<object>
 		<name>larvae</name>
 		<pose>Unspecified</pose>
-		<truncated>1</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1</xmin>
-			<ymin>1</ymin>
-			<xmax>24</xmax>
-			<ymax>0</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>larvae</name>
-		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>1</difficult>
 		<bndbox>
@@ -55,8 +43,8 @@
 		<bndbox>
 			<xmin>1</xmin>
 			<ymin>78</ymin>
-			<xmax>120</xmax>
-			<ymax>139</ymax>
+			<xmax>100</xmax>
+			<ymax>131</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -66,21 +54,9 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>1</xmin>
-			<ymin>200</ymin>
-			<xmax>2</xmax>
-			<ymax>282</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>larvae</name>
-		<pose>Unspecified</pose>
-		<truncated>1</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1</xmin>
-			<ymin>196</ymin>
-			<xmax>70</xmax>
-			<ymax>282</ymax>
+			<ymin>191</ymin>
+			<xmax>69</xmax>
+			<ymax>295</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -101,9 +77,9 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>292</xmin>
+			<xmin>291</xmin>
 			<ymin>157</ymin>
-			<xmax>456</xmax>
+			<xmax>455</xmax>
 			<ymax>228</ymax>
 		</bndbox>
 	</object>
